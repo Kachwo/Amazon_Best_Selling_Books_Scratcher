@@ -1,6 +1,6 @@
 # Amazon_Best_Selling_Books_Scratcher
 
-An apache netbean project with servlet for showing the top 100 best selling books on Amazon.
+An apache netbean project with servlet for showing the top 100 best selling books on Amazon with servlet.
 
 ## Create Database
 
